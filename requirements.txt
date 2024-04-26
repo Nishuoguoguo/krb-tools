@@ -1,0 +1,4 @@
+hbase_thrift==0.20.4
+loguru==0.7.2
+setuptools==57.0.0
+six==1.16.0
